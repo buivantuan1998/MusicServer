@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jetty-restful">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/jetty-restful" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/jetty-restful" recursive="false" />
+  </library>
+</component>
